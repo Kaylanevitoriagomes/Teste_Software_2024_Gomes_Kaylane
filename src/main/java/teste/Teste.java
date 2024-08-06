@@ -17,6 +17,6 @@ public class Teste {
     }
 
     private boolean someCondition() {
-        return 7 > 5; 
+        return 7 < 5; 
     }
 }
