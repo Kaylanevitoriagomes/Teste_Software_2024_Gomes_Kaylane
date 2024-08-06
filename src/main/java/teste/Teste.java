@@ -1,4 +1,4 @@
-package src.main.java.junit;
+package teste;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -20,8 +20,3 @@ public class Teste {
         return 7 > 5; 
     }
 }
-
-
-
-
-
